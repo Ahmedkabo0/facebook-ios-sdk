@@ -1,8 +1,8 @@
 # Project Owners
-* @joesus @jingping2015 @kalendae @robtimp
+* @jingping2015 @kalendae @robtimp
 
 # Login Kit
-FBSDKLoginKit/* @joesus @robtimp @abeatte
+FBSDKLoginKit/*  @robtimp @abeatte
 
 # Swift Files
 *.swift @joesus
